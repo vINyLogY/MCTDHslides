@@ -1,0 +1,11 @@
+\beamer@sectionintoc {1}{Discrete Variable Representation}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Problem Description}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Standard Procedure}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Selection of Basis}{11}{0}{1}
+\beamer@sectionintoc {2}{Multi-Configuration Time Dependent Hartree}{25}{0}{2}
+\beamer@subsectionintoc {2}{1}{Motivation}{27}{0}{2}
+\beamer@subsectionintoc {2}{2}{Data Structure}{36}{0}{2}
+\beamer@subsectionintoc {2}{3}{Algorithm}{42}{0}{2}
+\beamer@sectionintoc {3}{MCTDH vs. DMRG}{50}{0}{3}
+\beamer@subsectionintoc {3}{1}{Data Structure: a TN perspective}{51}{0}{3}
+\beamer@subsectionintoc {3}{2}{Algorithm: Differnet Choices}{53}{0}{3}
