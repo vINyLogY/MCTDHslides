@@ -40,7 +40,6 @@
 \newcommand*{\vcenteredhbox}[1]{\begingroup
 \setbox0=\hbox{#1}\parbox{\wd0}{\box0}\endgroup}
 \newcommand{\iu}{\mathrm{i}}
-\newcommand{\BigO}[1]{\mathcal{O}\!\left(#1\right)}
 \newcommand{\vac}{\ket{\mathrm{vac}}}
 \newcommand{\cdeg}{{}^\circ\mathrm{C}}
 \newcommand\blfootnote[1]{%
@@ -210,8 +209,8 @@
         In DVR basis, $V_{IJ} = V(\vec{q}_I)\delta_{IJ}$.
         \begin{itemize}
             \item[$\circ$] How to calculate $T\ket{\Psi}$?
-            \item Integrate in FBR and transform in DVR ($\BigO{N^2}$)
-            \item Use FFT and its inverse to calculate the differential ($\BigO{N \log{N}}$)
+            \item Integrate in FBR and transform in DVR ($\order{N^2}$)
+            \item Use FFT and its inverse to calculate the differential ($\order{N \log{N}}$)
         \end{itemize}
     \end{frame}
 
@@ -813,7 +812,7 @@
     \end{frame}
 
     \begin{frame}{Multi-Layer}
-        More nodes, but smaller ranks and smaller range of indices.
+        More nodes, but smaller ranks.
 
         Example 1:
         \begin{center}
@@ -882,7 +881,9 @@
                 \draw[<-]  (h6) to (12.5, 1.5); 
             \end{tikzpicture}
         \end{center}
-        For a complete binary tree, the space for saving a wavefunction is $\BigO{dn^3}$ floats, if $n_{\ell} = \BigO{n}$ for all $\ell$.
+        For a complete binary tree, the space for saving a wavefunction is $\order{dn^3}$ floats, if $n_{\ell} = \order{n}$ for all $\ell$.
+
+        Generally, if $\rank{} \leqslant p$ for all nodes, the space for saving a wavefunction is of $\order{d n^p}$.
     \end{frame}
     
     \subsection{Algorithm}
@@ -1243,9 +1244,9 @@
                 }=1}
             $
         \end{center}
-        Time complexity: if $\rank{} \leqslant p$ for all nodes, then a step of multiplication is of $\BigO{t p d n^{p+1}}$;
+        Time complexity: if $\rank{} \leqslant p$ for all nodes, then a step of multiplication is of $\order{t p d n^{p+1}}$;
 
-        Space complexity: $\BigO{t p d n^2 + d n^p}$.
+        Space complexity: $\order{t p d n^2 + d n^p}$.
     \end{frame}
 
     \begin{frame}{Example: 2-D harmonic oscillator}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.12.18)  28 SEP 2018 18:04
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.12.18)  28 SEP 2018 18:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2064,24 +2064,24 @@ LaTeX Info: Redefining \ttfamily on input line 95.
 )) (./pre2.aux)
 \openout1 = `pre2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2119,7 +2119,7 @@ LaTeX Font Info:    ... okay on input line 59.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box98
-Package hyperref Info: Link coloring OFF on input line 59.
+Package hyperref Info: Link coloring OFF on input line 58.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -2127,9 +2127,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count320
 )
-LaTeX Info: Redefining \ref on input line 59.
-LaTeX Info: Redefining \pageref on input line 59.
-LaTeX Info: Redefining \nameref on input line 59.
+LaTeX Info: Redefining \ref on input line 58.
+LaTeX Info: Redefining \pageref on input line 58.
+LaTeX Info: Redefining \nameref on input line 58.
  (./pre2.out) (./pre2.out)
 \@outlinefile=\write6
 \openout6 = `pre2.out'.
@@ -2137,41 +2137,41 @@ LaTeX Info: Redefining \nameref on input line 59.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 59.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 59.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 58.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 59.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 59.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 59.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 58.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/FiraSansLight(0)/m/n on input line 59.
+(Font)                  OT1/cmss/m/n --> TU/FiraSansLight(0)/m/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/FiraSansLight(0)/m/n on input line 59.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 59.
+(Font)                  OT1/cmss/bx/n --> TU/FiraSansLight(0)/m/n on input line 58.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 59.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/m/it on input line 59.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 59.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/m/it on input line 58.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 59.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 59.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 58.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 59.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 58.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/lmr/m/it --> TU/lmr/bx/it on input line 59.
+(Font)                  TU/lmr/m/it --> TU/lmr/bx/it on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 59.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/lmr/bx/n --> TU/lmr/bx/n on input line 59.
+(Font)                  TU/lmr/bx/n --> TU/lmr/bx/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/bx/n on input line 59.
+(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/bx/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/lmr/m/it --> TU/lmr/bx/it on input line 59.
+(Font)                  TU/lmr/m/it --> TU/lmr/bx/it on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/FiraMono(0)/m/n --> TU/FiraMono(0)/bx/n on input line 59.
+(Font)                  TU/FiraMono(0)/m/n --> TU/FiraMono(0)/bx/n on input line 58.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-bibliography-dictionary/translator-bibliography-dictionary-English.dict
@@ -2185,7 +2185,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 59.
+LaTeX Info: Redefining \includegraphics on input line 58.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -2193,66 +2193,66 @@ LaTeX Info: Redefining \includegraphics on input line 59.
 .................................................
 \symlegacymaths=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 59.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 59.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 59.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 59.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 59.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 59.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 59.
-LaTeX Font Info:    Redeclaring math accent \check on input line 59.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 59.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 59.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 59.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 59.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 59.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 58.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 58.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 58.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 58.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 58.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 58.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 58.
+LaTeX Font Info:    Redeclaring math accent \check on input line 58.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 58.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 58.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 58.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 58.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 59.
+(Font)              `operators' in the math version `normal' on input line 58.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 59.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 58.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 59.
+(Font)              `operators' in the math version `bold' on input line 58.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 59.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 58.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 59.
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 59.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 58.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  TU/lmr/m/it --> TU/lmr/m/it on input line 59.
+(Font)                  TU/lmr/m/it --> TU/lmr/m/it on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  TU/lmr/bx/n --> TU/lmr/bx/n on input line 59.
+(Font)                  TU/lmr/bx/n --> TU/lmr/bx/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/m/n on input line 59.
+(Font)                  TU/FiraSansLight(0)/m/n --> TU/FiraSansLight(0)/m/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  TU/FiraMono(0)/m/n --> TU/FiraMono(0)/m/n on input line 59.
+(Font)                  TU/FiraMono(0)/m/n --> TU/FiraMono(0)/m/n on input line 58.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 59.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/lmr/bx/it --> TU/lmr/bx/it on input line 59.
+(Font)                  TU/lmr/bx/it --> TU/lmr/bx/it on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/FiraSansLight(0)/bx/n --> TU/FiraSansLight(0)/bx/n on input line 59.
+(Font)                  TU/FiraSansLight(0)/bx/n --> TU/FiraSansLight(0)/bx/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/FiraMono(0)/bx/n --> TU/FiraMono(0)/bx/n on input line 59.
+(Font)                  TU/FiraMono(0)/bx/n --> TU/FiraMono(0)/bx/n on input line 58.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./pre2.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 63.
+(hyperref)                setting the option has no effect on input line 62.
 
 
-Overfull \vbox (49.13692pt too high) detected at line 67
+Overfull \vbox (49.13692pt too high) detected at line 66
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2263,15 +2263,15 @@ File: logo.eps Graphic file (type eps)
  <logo.eps> [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 73.
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 73.
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 73.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 72.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
@@ -2295,7 +2295,7 @@ File: logo.eps Graphic file (type eps)
  <logo.eps> [7
 
 ]
-Overfull \vbox (11.92368pt too high) detected at line 137
+Overfull \vbox (11.92368pt too high) detected at line 136
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2340,7 +2340,7 @@ File: logo.eps Graphic file (type eps)
 ]
 File: dvr_functions-FastSineDVR.pdf Graphic file (type QTm)
  <use  "dvr_functions-FastSineDVR.pdf" >
-Overfull \vbox (8.57478pt too high) detected at line 252
+Overfull \vbox (8.57478pt too high) detected at line 251
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2349,7 +2349,7 @@ File: logo.eps Graphic file (type eps)
 ]
 File: w-well-eigenstates-FastSineDVR.pdf Graphic file (type QTm)
  <use  "w-well-eigenstates-FastSineDVR.pdf" >
-Overfull \vbox (14.65411pt too high) detected at line 261
+Overfull \vbox (14.65411pt too high) detected at line 260
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2358,7 +2358,7 @@ File: logo.eps Graphic file (type eps)
 ]
 File: percentage-SineDVR.pdf Graphic file (type QTm)
  <use  "percentage-SineDVR.pdf" >
-Overfull \vbox (27.46402pt too high) detected at line 270
+Overfull \vbox (27.46402pt too high) detected at line 269
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2367,7 +2367,7 @@ File: logo.eps Graphic file (type eps)
 ]
 File: percent-length-SineDVR.pdf Graphic file (type QTm)
  <use  "percent-length-SineDVR.pdf" >
-Overfull \vbox (27.46402pt too high) detected at line 279
+Overfull \vbox (27.46402pt too high) detected at line 278
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2378,7 +2378,7 @@ File: functions-00000000.pdf Graphic file (type QTm)
  <use  "functions-00000000.pdf" >
 File: functions-00001000.pdf Graphic file (type QTm)
  <use  "functions-00001000.pdf" >
-Overfull \vbox (35.56517pt too high) detected at line 297
+Overfull \vbox (35.56517pt too high) detected at line 296
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2393,7 +2393,7 @@ File: functions-00003999.pdf Graphic file (type QTm)
  <use  "functions-00003999.pdf" >
 File: functions-00004999.pdf Graphic file (type QTm)
  <use  "functions-00004999.pdf" >
-Overfull \vbox (30.29118pt too high) detected at line 322
+Overfull \vbox (30.29118pt too high) detected at line 321
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2402,7 +2402,7 @@ File: logo.eps Graphic file (type eps)
 ]
 File: autocorr.pdf Graphic file (type QTm)
  <use  "autocorr.pdf" >
-Overfull \vbox (39.39603pt too high) detected at line 331
+Overfull \vbox (39.39603pt too high) detected at line 330
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2445,7 +2445,7 @@ File: logo.eps Graphic file (type eps)
  <logo.eps> [33
 
 ]
-Overfull \hbox (16.7391pt too wide) in paragraph at lines 652--652
+Overfull \hbox (16.7391pt too wide) in paragraph at lines 651--651
  [] 
  []
 
@@ -2493,7 +2493,7 @@ File: logo.eps Graphic file (type eps)
  <logo.eps> [44
 
 ]
-Overfull \vbox (7.27136pt too high) detected at line 1051
+Overfull \vbox (7.27136pt too high) detected at line 1052
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2509,7 +2509,7 @@ File: logo.eps Graphic file (type eps)
 
 ]
 
-LaTeX Font Warning: Command \huge invalid in math mode on input line 1249.
+LaTeX Font Warning: Command \huge invalid in math mode on input line 1250.
 
 File: logo.eps Graphic file (type eps)
 <logo.eps> [48
@@ -2517,7 +2517,7 @@ File: logo.eps Graphic file (type eps)
 ]
 File: autocorr_MCTDH.pdf Graphic file (type QTm)
  <use  "autocorr_MCTDH.pdf" >
-Overfull \vbox (35.29063pt too high) detected at line 1261
+Overfull \vbox (35.29063pt too high) detected at line 1262
  []
 
 File: logo.eps Graphic file (type eps)
@@ -2595,17 +2595,17 @@ File: logo.eps Graphic file (type eps)
 \tf@snm=\write9
 \openout9 = `pre2.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1423.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1423.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1424.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1424.
  (./pre2.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1423.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1423.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1424.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1424.
  ) 
 Here is how much of TeX's memory you used:
- 44973 strings out of 493005
- 993476 string characters out of 6134595
- 1216474 words of memory out of 5000000
- 48204 multiletter control sequences out of 15000+600000
+ 44972 strings out of 493005
+ 993472 string characters out of 6134595
+ 1216461 words of memory out of 5000000
+ 48203 multiletter control sequences out of 15000+600000
  19825 words of font info for 155 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,13n,95p,10384b,857s stack positions out of 5000i,500n,10000p,200000b,80000s
