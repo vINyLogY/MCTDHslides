@@ -1038,7 +1038,7 @@
             \tiny
             \begin{tikzpicture}[x=2em, y=2em, thick]
                 \node[basis] (a) at (0, -1) {\phantom{\normalsize$\partial_t^*$}};
-                \node (f) at (-2.5, 1) {\normalsize$\iu g_{ij} =$};
+                \node (f) at (-4, 1) {\normalsize$\iu g_{ij} \quad =$};
                 \node[basis] (at) at (0, 3) {\normalsize$\partial_t^*$};
                 \node (i) at (0, 5.5) {\footnotesize$i$};
                 \node (j) at (0, -3.5) {\footnotesize$j$};
@@ -1256,8 +1256,7 @@
         Start from the ground state when $V = \frac{1}{2}x^2 + \frac{1}{2}y^2$. Use Sine-DVR as the (primitive) basis set and $n=40$, $L=10$.
         \begin{figure}
             \includegraphics[width=0.5\textwidth]{autocorr_MCTDH.pdf}
-            \caption{$|a(t)|$ -- $t$ (using RK45 as ODE solver, $\Delta t = 0.001~\text{a.\,u.}$, renormalize all nodes during the propergation.)\\
-            \footnotesize\textcolor{red}{Red}: MCTDH; \textcolor{blue}{blue}: Standard procedure.}
+            \caption{$|a(t)|$ -- $t$ (using RK45 as ODE solver, $\Delta t = 0.001~\text{a.\,u.}$, renormalize all nodes during the propergation.)}
         \end{figure}
     \end{frame}
 
