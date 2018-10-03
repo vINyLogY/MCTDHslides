@@ -291,7 +291,7 @@
                 \includegraphics[width=0.9\textwidth]{functions-00001000.pdf}
                 \caption*{$t = 1.00~\text{a.\,u.}$}
             \end{subfigure}
-            \caption{Wavefunctions of a 2-D harmonic oscillator at $t$ (using RK45 as ODE solver, $\Delta t = 0.01~\text{a.\,u.}$)}
+            \caption{Real parts of wavefunctions of a 2-D harmonic oscillator at $t$ (using RK45 as ODE solver, $\Delta t = 0.01~\text{a.\,u.}$)}
         \end{figure}
     \end{frame}
 
@@ -1250,13 +1250,14 @@
     \end{frame}
 
     \begin{frame}{Example: 2-D harmonic oscillator}
-        \footnotesize
-        $V = \frac{1}{2}x^2 + \frac{1}{2}y^2 + \frac{1}{4}xy$ (all in a.\,u.).
+        \footnotesize{
+            $V = \frac{1}{2}x^2 + \frac{1}{2}y^2 + \frac{1}{4}xy$ (all in a.\,u.).
         
-        Start from the ground state when $V = \frac{1}{2}x^2 + \frac{1}{2}y^2$. Use Sine-DVR as the (primitive) basis set and $n=40$, $L=10$.
+            Start from the ground state when $V = \frac{1}{2}x^2 + \frac{1}{2}y^2$. Use Sine-DVR as the (primitive) basis set and $n=40$, $L=10$.
+        }
         \begin{figure}
-            \includegraphics[width=0.5\textwidth]{autocorr_MCTDH.pdf}
-            \caption{$|a(t)|$ -- $t$ (using RK45 as ODE solver, $\Delta t = 0.001~\text{a.\,u.}$, renormalize all nodes during the propergation.)}
+            \includegraphics[width=0.6\textwidth]{autocorr_MCTDH.pdf}
+            \caption{$|a(t)|$ -- $t$ (using RK45 as ODE solver, $\Delta t = 0.001~\text{a.\,u.}$)}
         \end{figure}
     \end{frame}
 
